@@ -12,6 +12,7 @@ our $schema = undef;
 our $host = undef;
 our $port = undef;
 our $debug = 0;
+our $test = undef;
 
 our $db;
 
